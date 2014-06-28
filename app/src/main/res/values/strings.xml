@@ -3,6 +3,7 @@
 
     <string name="app_name">Group Tracker</string>
     <string name="action_settings">Settings</string>
-    <string name="title_activity_map">Map Activity</string>
+    <string name="title_activity_map">Карта</string>
+    <string name="unable_to_create_map">Не удалось отобразить карту</string>
 
 </resources>

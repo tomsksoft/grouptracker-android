@@ -25,3 +25,5 @@ proguard/
 # Imported from default gitignore of Android Studio project
 /.idea/workspace.xml
 .DS_Store
+
+app/src/main/res/values/keys.xml

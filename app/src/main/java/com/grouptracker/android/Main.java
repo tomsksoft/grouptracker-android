@@ -52,7 +52,7 @@ public class Main extends Activity {
         public Fragment getItem(int position) {
             switch(position){
                 case 0:
-                    return new MapFragment();
+                    return new TrackingFragment();
             }
 
             return null;
